@@ -1,5 +1,9 @@
-## Hi there 👋
-
+- 👋 Hi, I’m Andrey. Nice to see you here! :)
+- 🐍 I'm interested in Python
+- 💻 I'm the author of these libraries:
+  - [Telegram Trade Bot](https://github.com/p-and14/tg-trade-bot): Buying/selling tokens on the ethereum network
+  - [Uniswap Universal Router Client](https://github.com/p-and14/UniswapUR_client): Token exchange on Uniswap UR
+  - [Todolist](https://github.com/p-and14/todolist): Task scheduler web application
 <!--
 **p-and14/p-and14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
